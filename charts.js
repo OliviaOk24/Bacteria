@@ -143,7 +143,7 @@ function buildCharts(sample) {
    // 3. Create a variable that holds the washing frequency.
   var washFreq = results.get("wfreq").parseFloat();
   //Object.values(results).get(6);
-  console.log(washFreq);
+  //console.log(washFreq);
    // 4. Create the trace for the gauge chart.
    var gaugeData = [
      { 
